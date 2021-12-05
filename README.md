@@ -1,3 +1,8 @@
+# Context
+
+All source codes in this repo are based on book: Web Development with ReasonML (Chapter 3: Data Types)
+
+
 # Basic Reason Template
 
 Hello! This project allows you to quickly get started with ReScript using Reason syntax. If you wanted a more sophisticated version, try the `react` template (`bsb -theme react -init .`).
